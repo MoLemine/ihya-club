@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <path d="M256 424C256 424 109 333 109 217C109 150 160 104 221 104C246 104 272 114 289 135C306 114 332 104 357 104C418 104 469 150 469 217C469 333 322 424 322 424H256Z" fill="url(#heart)"/>
+  <circle cx="256" cy="236" r="72" fill="white" fill-opacity="0.18"/>
+  <path d="M224 236H248V212H264V236H288V252H264V276H248V252H224V236Z" fill="white"/>
+  <text x="256" y="468" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="700">Save A Life</text>
+  <defs>
+    <linearGradient id="bg" x1="64" y1="48" x2="432" y2="464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="heart" x1="173" y1="108" x2="401" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB7185"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+</svg>
